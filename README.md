@@ -1,3 +1,3 @@
 # hello-github
-My first repository
+My first repository.
 now I change this
